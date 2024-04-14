@@ -1,0 +1,4 @@
+runner\entity\AppUser$AppUserBuilder.class
+runner\entity\AppUser.class
+runner\entity\enums\UserState.class
+runner\dao\AppUserDAO.class

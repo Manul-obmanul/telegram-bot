@@ -1,0 +1,15 @@
+runner\service\ProducerService.class
+runner\service\impl\ConsumerServiceImpl.class
+runner\dao\JokeDAO.class
+runner\service\impl\ProducerServiceImpl.class
+runner\service\MainService.class
+runner\entity\Joke$JokeBuilder.class
+runner\service\enums\ServiceCommands.class
+runner\dao\RawDataDAO.class
+runner\service\ConsumerService.class
+runner\entity\RawData.class
+runner\service\impl\MainServiceImpl.class
+runner\entity\Joke.class
+runner\configuration\RabbitConfiguration.class
+runner\entity\RawData$RawDataBuilder.class
+runner\NodeApplication.class
